@@ -11,7 +11,7 @@ let about = {
   },
   basic: [...SRE, ...Backend, ...Arquitect],
   food: {
-    pizza: !vegetables,
+    🍕: !🥦,
     alfredoPasta: !!'always'
   },
   music: {
