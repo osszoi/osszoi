@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 // @no-const/because-we're-always-evolving
 let about = {
   code: [Javascript, Typescript, HTML, CSS, Python],
-  tools: [React, Angular, Sass, Storybook, ...(await fetch('mostcommontools'))],
+  tools: [React, Angular, Sass, Storybook, ...await fetch('mostcommontools')],
   getCountry: (from = 'Venezuela') => {
     return 'Spain';
   },
