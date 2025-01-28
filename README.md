@@ -14,3 +14,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+```ts
+// @no-const/because-we're-always-evolving
+let about = {
+	code: [Javascript, Typescript, HTML, CSS, Python],
+	tools: [React, Angular, Sass, Storybook, ...(await fetch('mostcommontools'))],
+	getCountry: (from = 'Venezuela') => {
+		return 'Spain';
+	},
+	basic: [...SRE, ...Backend, ...Arquitect],
+	food: {
+		pizza: !vegetables,
+		alfredoPasta: !!'always'
+	},
+	music: {
+    martinGarrix: !+'x',
+    ...rest
+	},
+	printHobbies: () =>
+		console.log(['code', 'videogames', 'drive', 'math'].join(', ')),
+};
+
+export default eduardo = { status: 'coding', ...about }
+```
