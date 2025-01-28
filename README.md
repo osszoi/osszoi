@@ -1,4 +1,4 @@
-### Hello world, I'm a senior frontend engineer with over `now-2009` years of experience in web development
+### Hello world 👋, I'm a senior frontend engineer with over `now-2009` years of experience in web development
 
 <!--
 **osszoi/osszoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
