@@ -8,9 +8,7 @@ Passionate about crafting elegant solutions and pushing the boundaries of what's
 let about = {
   code: [Javascript, Typescript, HTML, CSS, Python],
   tools: [React, Angular, Sass, Storybook, ...await fetch('mostcommontools')],
-  getCountry: (from = 'Venezuela') => {
-    return 'Spain';
-  },
+  getCountry: (from = 'Venezuela') => 'Spain',
   basic: [...SRE, ...Backend, ...Arquitect],
   food: {
     🍕: !🥦,
